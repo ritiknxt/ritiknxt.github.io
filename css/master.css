@@ -61,3 +61,6 @@
     margin: 0 auto;
     text-align: left;
   }
+* {
+  background-image: url("banner2.jpeg");
+}
